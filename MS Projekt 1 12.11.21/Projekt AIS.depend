@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1636284637 source:c:\users\mateusz\desktop\studia\algorytmy i struktury danych\projekt 1\projekt ais\main.cpp
+	<iostream>
+
+1636567475 source:c:\users\mateusz\desktop\studia\algorytmy i struktury danych\projekt v2\main.cpp
+	<iostream>
+	<fstream>
+
+1636639226 source:c:\users\mateusz\desktop\studia\algorytmy i struktury danych\projekt 12.11.21\projekt v2\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<cstdlib>
+
